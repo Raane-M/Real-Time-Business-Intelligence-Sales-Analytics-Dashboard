@@ -22,8 +22,6 @@ An interactive, real-time **Business Intelligence Dashboard** built with **Strea
 | **Frontend/UI**    | [Streamlit](https://streamlit.io/) |
 | **Data Handling**  | [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/) |
 | **Visualization**  | [Plotly Express](https://plotly.com/python/plotly-express/), [Plotly Graph Objects](https://plotly.com/python/graph-objects/) |
-| **Machine Learning (optional)** | [Scikit-learn](https://scikit-learn.org/stable/) *(RandomForestRegressor for predictions if installed)* |
-| **Other**          | Python Standard Libraries (datetime, warnings, etc.) |
 
 ---
 
